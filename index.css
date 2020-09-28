@@ -1,0 +1,28 @@
+body{
+background: antiquewhite;
+background-image: url(ken_piano.jpg);
+color:white;
+align-items: center;
+}
+
+
+h4{
+    text-align: center;
+    margin-top: 200px;
+    color:red;
+    font-weight: bold;
+}
+
+
+.container-fluid{
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+    width: 600px;
+    height: 640px;
+    background-color:orange;
+}
+
+.btn{
+    width: 250px;
+}
